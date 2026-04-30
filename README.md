@@ -86,7 +86,3 @@ Variabel yang dibaca antara lain:
   - `npm run preview` untuk preview build.
 - Aplikasi ini sudah menggunakan pola role-based routing dan flow KYC dasar.
 - Untuk pengembangan lanjutan, lengkapi backend nyata dan endpoint Azure yang sesuai.
-
-## Lisensi
-
-Lisensi default proyek ini adalah `ISC`. Sesuaikan sesuai kebutuhan.
